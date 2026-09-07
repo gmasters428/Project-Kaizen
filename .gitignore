@@ -16,3 +16,7 @@ playwright-report
 supabase/.temp/
 supabase/.branches/
 .vercel
+
+# Cloudflare Wrangler local state
+.wrangler
+.dev.vars*
